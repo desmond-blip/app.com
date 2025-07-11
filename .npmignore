@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except
+!/lib/
+!/.npmignore
+!/package.json
+!/README.md
+!/CHANGELOG.md
+!/.npmignore
